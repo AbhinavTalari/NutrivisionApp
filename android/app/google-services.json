@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836856236831",
+    "project_id": "sound-inkwell-310414",
+    "storage_bucket": "sound-inkwell-310414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836856236831:android:8b50dcc56bd62dc1c9fe2a",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836856236831-qe0eoinjsdoaqn0f78qtdt26ia31tqq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS73pNLM14p9eQVaJR3sllO_EX6Zx-AkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836856236831-qe0eoinjsdoaqn0f78qtdt26ia31tqq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
